@@ -1,0 +1,7 @@
+[submodule "QDax"]
+	path = QDax
+	url = https://github.com/adaptive-intelligent-robotics/QDax
+	branch = develop
+[submodule "brax"]
+	path = brax
+	url = https://github.com/google/brax
